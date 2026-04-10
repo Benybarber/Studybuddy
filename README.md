@@ -1,0 +1,2 @@
+# Studybuddy
+Ai app test 
